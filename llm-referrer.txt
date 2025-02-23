@@ -1,0 +1,23 @@
+# LLM Chatbots & Answer Engines
+# Apart from a few landing pages, every click from these hosts is the result of an interaction with an LLM.
+bard.google.com
+chat.deepseek.com
+chat.mistral.ai
+chat.openai.com
+chat-gpt.org
+chatgpt.com
+claude.ai
+consensus.app
+copilot.microsoft.com
+deep-seek.ai
+edgeservices.bing.com
+go.welt.de
+grok.com
+hey.bild.de
+iask.ai
+labs.perplexity.ai
+meta.ai
+perplexity.ai
+phind.com
+poe.com
+you.com
