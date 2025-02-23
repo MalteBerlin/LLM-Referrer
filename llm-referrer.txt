@@ -11,6 +11,7 @@ consensus.app
 copilot.microsoft.com
 deep-seek.ai
 edgeservices.bing.com
+gemini.google.com
 go.welt.de
 grok.com
 hey.bild.de
