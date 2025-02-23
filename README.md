@@ -2,7 +2,7 @@
 A list of http referrers used by LLM-based chat and answer engines.
 
 ## Why?
-Most web analytics solutions (like Google Maps) show traffic from LLMs as referrer traffic. If you want to track LLM traffic separately, this list might be helpful.
+Most web analytics solutions (like Google Analytics) show traffic from LLMs as referrer traffic. If you want to track LLM traffic separately, this list might be helpful.
 
 ## Who?
 Created and maintained by <a href="https://github.com/MalteBerlin">Malte Landwehr</a>. He is the VP SEO at idealo and - among other things - responsible for visibility in LLMs.
