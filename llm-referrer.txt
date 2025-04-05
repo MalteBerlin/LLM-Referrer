@@ -1,6 +1,5 @@
 # LLM Chatbots & Answer Engines
 # Apart from a few landing pages, every click from these hosts is the result of an interaction with an LLM.
-aitastic.app
 bard.google.com
 chat.deepseek.com
 chat.mistral.ai
@@ -11,20 +10,17 @@ chatgpt.com
 claude.ai
 consensus.app
 copilot.microsoft.com
-copy.ai
 deep-seek.ai
 edgeservices.bing.com
 gemini.google.com
+getliner.com
 go.welt.de
 grok.com
 hey.bild.de
 iask.ai
 labs.perplexity.ai
-link.edgepilot.com
 meta.ai
-nimble.ai
 perplexity.ai
 phind.com
 poe.com
-writesonic.com
 you.com
