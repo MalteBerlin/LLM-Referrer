@@ -2,6 +2,7 @@
 # Apart from a few landing pages, every click from these hosts is the result of an interaction with an LLM.
 ai.ionos.de
 bard.google.com
+blackbox.ai
 chat.deepseek.com
 chat.mistral.ai
 chat.qwenlm.ai
@@ -20,6 +21,7 @@ grok.com
 hey.bild.de
 huggingface.co
 iask.ai
+kimi.com
 magai.co
 meta.ai
 ninjachat.ai
