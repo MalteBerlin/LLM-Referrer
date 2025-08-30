@@ -12,6 +12,7 @@ chathub.gg
 claude.ai
 consensus.app
 copilot.microsoft.com
+doubao.com
 edgeservices.bing.com
 gemini.google.com
 getliner.com
