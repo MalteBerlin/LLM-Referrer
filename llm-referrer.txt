@@ -23,6 +23,7 @@ grok.com
 hey.bild.de
 huggingface.co
 iask.ai
+intric.ai
 kimi.com
 magai.co
 meta.ai
