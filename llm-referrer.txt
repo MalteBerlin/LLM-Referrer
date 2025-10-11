@@ -15,6 +15,7 @@ consensus.app
 copilot.microsoft.com
 doubao.com
 edgeservices.bing.com
+felo.ai
 gemini.google.com
 getliner.com
 getmerlin.in
