@@ -32,6 +32,7 @@ ninjachat.ai
 perplexity.ai
 phind.com
 poe.com
+sider.ai
 teamai.com
 yeschat.ai
 you.com
