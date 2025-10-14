@@ -12,6 +12,7 @@ chatgpt.com
 chathub.gg
 claude.ai
 consensus.app
+cipilot.cloud.microsoft
 copilot.microsoft.com
 doubao.com
 edgeservices.bing.com
