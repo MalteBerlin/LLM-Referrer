@@ -8,6 +8,7 @@ chat.deepseek.com
 chat.mistral.ai
 chat.qwenlm.ai
 chat.openai.com
+chatbotapp.ai
 chatgpt.com
 chathub.gg
 claude.ai
