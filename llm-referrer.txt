@@ -28,6 +28,7 @@ huggingface.co
 iask.ai
 intric.ai
 kimi.com
+lmarena.ai
 magai.co
 meta.ai
 ninjachat.ai
