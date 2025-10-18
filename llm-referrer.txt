@@ -1,5 +1,6 @@
 # LLM Chatbots & Answer Engines
 # Apart from a few landing pages, every click from these hosts is the result of an interaction with an LLM.
+adot.ai
 ai.ionos.de
 askgpt.app
 bard.google.com
