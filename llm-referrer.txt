@@ -36,6 +36,7 @@ ninjachat.ai
 perplexity.ai
 phind.com
 poe.com
+qwen.ai
 rogo.ai
 sider.ai
 teamai.com
