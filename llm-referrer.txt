@@ -19,6 +19,7 @@ copilot.microsoft.com
 doubao.com
 edgeservices.bing.com
 felo.ai
+galaxy.ai
 gemini.google.com
 getliner.com
 getmerlin.in
