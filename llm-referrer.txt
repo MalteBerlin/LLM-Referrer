@@ -32,6 +32,7 @@ intric.ai
 kimi.com
 lmarena.ai
 magai.co
+mammouth.ai
 meta.ai
 ninjachat.ai
 perplexity.ai
