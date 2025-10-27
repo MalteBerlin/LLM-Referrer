@@ -42,6 +42,7 @@ qwen.ai
 rogo.ai
 sider.ai
 teamai.com
+typingmind.com
 yeschat.ai
 you.com
 venice.ai
