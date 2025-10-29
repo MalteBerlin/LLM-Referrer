@@ -20,6 +20,7 @@ doubao.com
 edgeservices.bing.com
 felo.ai
 galaxy.ai
+geeky.chat
 gemini.google.com
 getliner.com
 getmerlin.in
