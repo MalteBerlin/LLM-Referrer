@@ -17,6 +17,7 @@ consensus.app
 cipilot.cloud.microsoft
 copilot.microsoft.com
 doubao.com
+easemate.ai
 edgeservices.bing.com
 felo.ai
 galaxy.ai
