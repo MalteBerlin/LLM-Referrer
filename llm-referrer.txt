@@ -25,6 +25,7 @@ geeky.chat
 gemini.google.com
 getliner.com
 getmerlin.in
+glbgpt.com
 go.welt.de
 grok.com
 hey.bild.de
