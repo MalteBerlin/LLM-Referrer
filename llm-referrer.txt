@@ -1,6 +1,7 @@
 # LLM Chatbots & Answer Engines
 # Apart from a few landing pages, every click from these hosts is the result of an interaction with an LLM.
 adot.ai
+agent.minimax.io
 ai.ionos.de
 askgpt.app
 bard.google.com
@@ -32,6 +33,7 @@ hey.bild.de
 huggingface.co
 iask.ai
 intric.ai
+kimi.ai
 kimi.com
 lmarena.ai
 magai.co
@@ -46,8 +48,11 @@ qwen.ai
 rogo.ai
 sider.ai
 teamai.com
+tongyi.aliyun.com
+tongyi.com
 typingmind.com
-yeschat.ai
-you.com
 venice.ai
 writingmate.ai
+yeschat.ai
+you.com
+yuanbao.tencent.com
