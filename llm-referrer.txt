@@ -4,6 +4,7 @@ adot.ai
 agent.minimax.io
 ai.ionos.de
 askgpt.app
+alexaplus.com
 bard.google.com
 blackbox.ai
 chat.deepseek.com
