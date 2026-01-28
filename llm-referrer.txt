@@ -48,6 +48,7 @@ poe.com
 qianwen.com
 qwen.ai
 rogo.ai
+scout.yahoo.com
 sider.ai
 teamai.com
 tongyi.aliyun.com
