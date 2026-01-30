@@ -7,6 +7,7 @@ askgpt.app
 alexaplus.com
 bard.google.com
 blackbox.ai
+chat.baidu.com
 chat.deepseek.com
 chat.mistral.ai
 chat.qwenlm.ai
