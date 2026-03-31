@@ -48,6 +48,7 @@ perplexity.ai
 phind.com
 poe.com
 qianwen.com
+quillbot.com
 qwen.ai
 rogo.ai
 scout.yahoo.com
