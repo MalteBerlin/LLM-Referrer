@@ -12,7 +12,9 @@ chat.deepseek.com
 chat.mistral.ai
 chat.qwenlm.ai
 chat.openai.com
+chat.z.ai
 chatbotapp.ai
+chatglm.cn
 chatgpt.com
 chathub.gg
 claude.ai
@@ -60,5 +62,7 @@ typingmind.com
 venice.ai
 writingmate.ai
 yeschat.ai
+ying.baichuan-ai.com
+yiyan.baidu.com
 you.com
 yuanbao.tencent.com
