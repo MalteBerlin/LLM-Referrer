@@ -6,6 +6,8 @@ ai.ionos.de
 andisearch.com
 askgpt.app
 alexaplus.com
+app.sigmabrowser.com
+bagoodex.io
 bard.google.com
 blackbox.ai
 chat.baidu.com
@@ -26,6 +28,7 @@ doubao.com
 duck.ai
 easemate.ai
 edgeservices.bing.com
+exa.ai
 felo.ai
 galaxy.ai
 geeky.chat
@@ -47,8 +50,10 @@ lmarena.ai
 magai.co
 mammouth.ai
 meta.ai
+metaphor.systems
 monica.im
 ninjachat.ai
+openrouter.ai
 perplexity.ai
 phind.com
 poe.com
@@ -59,6 +64,7 @@ rogo.ai
 scout.yahoo.com
 sider.ai
 teamai.com
+thinkany.ai
 tongyi.aliyun.com
 tongyi.com
 typingmind.com
