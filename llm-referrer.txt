@@ -3,6 +3,7 @@
 adot.ai
 agent.minimax.io
 ai.ionos.de
+andisearch.com
 askgpt.app
 alexaplus.com
 bard.google.com
@@ -35,9 +36,11 @@ glbgpt.com
 go.welt.de
 grok.com
 hey.bild.de
+hey.pi.ai
 huggingface.co
 iask.ai
 intric.ai
+jan.ai
 kimi.ai
 kimi.com
 lmarena.ai
