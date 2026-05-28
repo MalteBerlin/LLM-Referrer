@@ -28,6 +28,7 @@ doubao.com
 duck.ai
 easemate.ai
 edgeservices.bing.com
+ernie.baidu.com
 exa.ai
 felo.ai
 galaxy.ai
